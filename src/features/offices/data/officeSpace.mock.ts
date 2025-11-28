@@ -124,6 +124,6 @@ export const officeSpaces:officeSpace[] = [
                     photo:'/assets/images/photos/photo-2.png'
                 }
             ],
-            isFullyBooked:true,
+            isFullyBooked:false,
     },
 ];
